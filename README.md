@@ -2,20 +2,21 @@
 A classic Snake Game implemented in Python using the Pygame library. Guide the snake to eat food, grow longer, and avoid collisions with walls and its own body.
 
 
-#Features:
+# Features:
 Gameplay: 
 Control the snake's direction with arrow keys.
 
-#Scoring: 
+Scoring: 
 Score points by eating food; each food item adds 10 points to the score.
 
-#Game Over: 
+Game Over: 
 The game ends if the snake collides with walls or itself.
 
-#Graphics: 
+Graphics: 
 Enjoy a simple graphical representation using Pygame.
 
-Background: Customize the game environment with a background image.
+Background: 
+Customize the game environment with a background image.
 
 # Instructions:
 Install Python and Pygame.
